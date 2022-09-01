@@ -15,7 +15,7 @@
     "typescript:check": "npx tsc --noEmit"
   },
   "dependencies": {
-    "@ethersproject/abi": "5.6.3",
+    "@ethersproject/abi": "5.7.0",
     "@ethersproject/providers": "5.6.8",
     "@ethersproject/solidity": "5.6.1",
     "@walletconnect/client": "1.7.8",
